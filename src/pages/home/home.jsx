@@ -4,7 +4,7 @@ import Sidebar from '../../components/sidebar/sidebar';
 import './home.css'
 import "../responsive.css"
 
-export default function home() {
+export default function Home() {
     return (
        <>
             <Header/>

@@ -23,6 +23,7 @@ function App() {
           <Home />
         </Route>
 
+         
         <Route path="/register">
           { user? <Home/> : <Register />} {/*So, this line of code first has to route the url to register. The conditional statement is that if there is a user, take
                                             the useer to Home page but if the user is false, take the user to register page */}
