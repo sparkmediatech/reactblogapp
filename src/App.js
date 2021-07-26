@@ -6,7 +6,7 @@ import Settings from './pages/settings/settings'
 import Login from './pages/login/login'
 import Register from './pages/register/register'
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Switch,
   Route,
   Link
