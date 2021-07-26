@@ -44,7 +44,7 @@ const handleMenuClickClose = ()=>{
                     </li>
 
                     <li className='topListItem'>
-                        <Link className='link' to='/'>CONTACT</Link>
+                        <Link className='link' to='/contact'>CONTACT</Link>
                     </li>
                     <li className='topListItem'>
                         <Link className='link' to='/write'>WRITE</Link>
